@@ -1,0 +1,1 @@
+CodeBeauty Programming Questions Class
