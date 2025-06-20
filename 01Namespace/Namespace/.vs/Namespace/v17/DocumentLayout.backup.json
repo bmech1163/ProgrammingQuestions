@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brian\\Documents\\CodeBeautyC\u002B\u002B\\ProgrammingQuestions\\01Namespace\\Namespace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{760560FC-7A44-4FB4-B2EE-03EE7CABD3F2}|Namespace.vcxproj|C:\\Users\\brian\\Documents\\CodeBeautyC\u002B\u002B\\ProgrammingQuestions\\01Namespace\\Namespace\\Namespace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{760560FC-7A44-4FB4-B2EE-03EE7CABD3F2}|Namespace.vcxproj|solutionrelative:Namespace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Namespace.cpp",
+              "DocumentMoniker": "C:\\Users\\brian\\Documents\\CodeBeautyC\u002B\u002B\\ProgrammingQuestions\\01Namespace\\Namespace\\Namespace.cpp",
+              "RelativeDocumentMoniker": "Namespace.cpp",
+              "ToolTip": "C:\\Users\\brian\\Documents\\CodeBeautyC\u002B\u002B\\ProgrammingQuestions\\01Namespace\\Namespace\\Namespace.cpp*",
+              "RelativeToolTip": "Namespace.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-20T00:56:15.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
