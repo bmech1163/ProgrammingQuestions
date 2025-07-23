@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brian\\Documents\\CodeBeautyC\u002B\u002B\\ProgrammingQuestions\\02StructuresAssignment\\QuestionsAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1A9DBF-942B-40A6-B28F-42715176C67F}|QuestionsAssignment\\QuestionsAssignment.vcxproj|C:\\Users\\brian\\Documents\\CodeBeautyC\u002B\u002B\\ProgrammingQuestions\\02StructuresAssignment\\QuestionsAssignment\\QuestionsAssignment\\QuestionsAssignment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E1A9DBF-942B-40A6-B28F-42715176C67F}|QuestionsAssignment\\QuestionsAssignment.vcxproj|solutionrelative:QuestionsAssignment\\QuestionsAssignment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuestionsAssignment.cpp",
+              "DocumentMoniker": "C:\\Users\\brian\\Documents\\CodeBeautyC\u002B\u002B\\ProgrammingQuestions\\02StructuresAssignment\\QuestionsAssignment\\QuestionsAssignment\\QuestionsAssignment.cpp",
+              "RelativeDocumentMoniker": "QuestionsAssignment\\QuestionsAssignment.cpp",
+              "ToolTip": "C:\\Users\\brian\\Documents\\CodeBeautyC\u002B\u002B\\ProgrammingQuestions\\02StructuresAssignment\\QuestionsAssignment\\QuestionsAssignment\\QuestionsAssignment.cpp",
+              "RelativeToolTip": "QuestionsAssignment\\QuestionsAssignment.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-15T23:21:58.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

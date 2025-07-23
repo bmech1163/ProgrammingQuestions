@@ -1,0 +1,4 @@
+﻿  02Structures.cpp
+C:\Users\brian\Documents\CodeBeautyC++\ProgrammingQuestions\02Structures\02Structures\02Structures.cpp(37,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\brian\Documents\CodeBeautyC++\ProgrammingQuestions\02Structures\02Structures\02Structures.cpp(43,22): warning C4305: '=': truncation from 'double' to 'float'
+  02Structures.vcxproj -> C:\Users\brian\Documents\CodeBeautyC++\ProgrammingQuestions\02Structures\02Structures\x64\Debug\02Structures.exe
