@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,6 +33,10 @@
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FileHandlingAssignment.cpp",
@@ -40,14 +44,10 @@
               "RelativeDocumentMoniker": "FileHandlingAssignment.cpp",
               "ToolTip": "C:\\Users\\brian\\Documents\\CodeBeautyC\u002B\u002B\\ProgrammingQuestions\\03FileHandlingAssignment\\FileHandlingAssignment\\FileHandlingAssignment.cpp",
               "RelativeToolTip": "FileHandlingAssignment.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-13T23:22:04.135Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

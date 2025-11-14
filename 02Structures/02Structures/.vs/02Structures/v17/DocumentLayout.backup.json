@@ -14,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -44,10 +40,14 @@
               "RelativeDocumentMoniker": "02Structures.cpp",
               "ToolTip": "C:\\Users\\brian\\Documents\\CodeBeautyC\u002B\u002B\\ProgrammingQuestions\\02Structures\\02Structures\\02Structures.cpp",
               "RelativeToolTip": "02Structures.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAADcAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-25T23:59:12.425Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
